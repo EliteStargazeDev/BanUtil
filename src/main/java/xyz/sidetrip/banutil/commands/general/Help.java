@@ -18,7 +18,7 @@ public class Help extends Command {
 	@Override
 	public void execute(IMessage context, String... args) {
 		EmbedBuilder help = new EmbedBuilder();
-		help.withTitle(Emojis.BAN + " | BanUtil | Help");
+		help.withTitle(Emojis.BAN + " | <Z1500.OS> | Help");
 		help.withColor(BanUtil.BANNING_COLOUR);
 		help.withDescription("Here's all the commands right now:");
 		StringBuilder commandList = new StringBuilder("```");
