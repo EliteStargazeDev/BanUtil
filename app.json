@@ -1,8 +1,7 @@
 {
-   "name":"BanUtil",
+   "name":"Z1500",
    "description":"A very simple self hosted moderation bot.",
-   "repository":"https://github.com/MacDue/BanUtil",
-   "logo":"https://dueutil.tech/img/BanUtil.png",
+   "repository":"https://github.com/EliteStargazeDev/BanUtil",
    "keywords":[
       "discord",
       "discord-bot",
