@@ -25,7 +25,7 @@ ___
 
 ### Setup (Heroku)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MacDue/BanUtil/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/EliteStargazeDev/BanUtil/tree/master)
 
 1. [Create a new bot account.](https://discordapp.com/developers/applications/me)
 2. [Sign up for a free Heroku account.](https://signup.heroku.com)
