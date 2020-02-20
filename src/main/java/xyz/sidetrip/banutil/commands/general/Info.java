@@ -24,12 +24,10 @@ public class Info extends Command {
         info.withColor(BanUtil.BANNING_COLOUR);
         info.withDescription("I'm **Z1500** (a stateless single server moderation bot) by Iranian Bomber#4320, owned by Elite Stargaze.\n"
                 + "I am Elite Stargaze's Custom Bot..."
-                + " and I'm all out of bubblegum.");
+                + " and I have have nothing else to put.");
         info.appendField("Z1500.OS", BanUtil.VERSION, true);
         info.appendField("Discord4J version", Discord4J.VERSION, true);
-        info.appendField("Deploy in a click to Heroku!", BanUtil.REPO, false);
-        info.withThumbnail(BanUtil.getClient().getApplicationIconURL());
-        context.getChannel().sendMessage(info.build());
+        
     }
 
     @Override
